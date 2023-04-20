@@ -10,6 +10,6 @@ The HoughLine transform is then applied to the edges detected by Canny. It is us
 The program can be run on both images and videos. For videos, the program reads the frames of the video, processes each frame to detect the road lines, and outputs a video with the predicted path overlaid on the video. For images, the program processes the image to detect the road lines and outputs the predicted path as a separate image.
 
 ## output video: 
-[![Watch the video](outputs/output_video_02.avi)
+[![Watch the video](outputs/output_video_02.mp4)
 
 Overall, this program can be a useful tool in developing self-driving cars as it can help in detecting and predicting the path of the car.
